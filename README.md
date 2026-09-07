@@ -11,7 +11,7 @@
 - **产出**：python完整代码 + 8 张可视化图表 + 一页项目说明。
 
 ## 核心可视化
-![客户分层](images/customer_segments.png)
+![客户分层](images/客户分层.png)
 ![月度销售趋势](images/monthly_sales.png)
 ![国家分布](images/country_distribution.png)
 ![热销商品](images/top10_products.png)
