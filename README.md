@@ -58,4 +58,4 @@
 
 4. **数据能力栈**：完整覆盖 SQL 取数 → Python 清洗 → RFM 建模 → 业务洞察 → 策略建议的链路，对应跨境电商运营助理 / 数据分析专员岗位的日常工作：经营数据监控、用户分层、广告报表与运营策略输出。
 
-*本仓库已上传完整的RFM分析代码，包含数据清洗、特征工程、客户分层和可视化输，数据来源于 UCI Machine Learning Repository - Online Retail Dataset* 用户需自行下载
+*本仓库已上传完整的RFM分析代码，包含数据清洗、特征工程以及客户分层结果等，数据来源于 UCI Machine Learning Repository - Online Retail Dataset* 用户需自行下载
