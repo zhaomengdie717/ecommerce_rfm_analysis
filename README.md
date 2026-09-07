@@ -12,10 +12,10 @@
 
 ## 核心可视化
 ![客户分层](images/客户分层.png)
-![月度销售趋势](images/monthly_sales.png)
-![国家分布](images/country_distribution.png)
-![热销商品](images/top10_products.png)
-![高价值客户画像](images/high_value_customer_profile.png)
+![月度销售趋势](images/月度销售趋势.png)
+![国家分布](images/国家分布.png)
+![热销商品](images/热销产品.png)
+![高价值客户画像](高价值客户画像.png)
 
 ## 关键发现
 1. **客户结构待优化**:流失客户占 34.7%，高价值占 30.4%，召回与价值提升空间巨大。
