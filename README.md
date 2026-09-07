@@ -11,11 +11,38 @@
 - **产出**：python完整代码 + 8 张可视化图表 + 一页项目说明。
 
 ## 核心可视化
-![客户分层](images/客户分层.png)
-![月度销售趋势](images/月度销售趋势.png)
-![国家分布](images/国家分布.png)
-![热销商品](images/热销商品.png)
-![高价值客户画像](images/高价值客户画像.png)
+
+### 客户分层
+<p align="center">
+  <img src="images/客户分层.png" width="500">
+</p>
+
+### 月度销售趋势
+<p align="center">
+  <img src="images/月度销售趋势.png" width="500">
+</p>
+
+### 国家分布
+<p align="center">
+  <img src="images/国家分布.png" width="500">
+</p>
+
+### 热销商品
+<p align="center">
+  <img src="images/热销商品.png" width="500">
+</p>
+
+### 高价值客户画像
+<p align="center">
+  <img src="images/高价值客户画像.png" width="450">
+</p>
+
+### 复购率
+<p align="center">
+  <img src="images/复购率.png" width="450">
+</p>
+
+
 
 ## 关键发现
 1. **客户结构待优化**:流失客户占 34.7%，高价值占 30.4%，召回与价值提升空间巨大。
