@@ -38,7 +38,7 @@
 本项目 RFM 分层方法论可直接应用于 Amazon/Shopee/TikTok Shop 真实订单数据。打分阈值、运营动作均按跨境场景设计,详见 `project_onepager.md`。
 
 ## 项目说明
-- 一页项目说明:[`docs/project_onepager.docx`](docs/project_onepager.docx)
+- 一页项目说明:[`docs/project_onepager.docx`](docs/project_onepager.md)
 - 完整分析代码：[用户行为分析.py](用户行为分析.py)
 - 数据源说明:[`data/README.md`](data/README.md)
 
