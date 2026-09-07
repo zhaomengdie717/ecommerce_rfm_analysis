@@ -39,7 +39,7 @@
 
 ## 项目说明
 - 一页项目说明:[`docs/project_onepager.md`](docs/project_onepager.md)
-- 完整分析 Notebook:[`notebooks/ecommerce_rfm.ipynb`](notebooks/ecommerce_rfm.ipynb)
+- 完整分析代码：[用户行为分析.py](用户行为分析.py)
 - 数据源说明:[`data/README.md`](data/README.md)
 
 ## 数据来源
